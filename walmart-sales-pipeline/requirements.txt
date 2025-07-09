@@ -1,0 +1,6 @@
+
+snowflake-connector-python
+pandas
+matplotlib
+seaborn
+dbt-core
